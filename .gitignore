@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+.DS_Store
+.idea
+static/*
+media/*
+settings_local.py
